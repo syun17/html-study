@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 12px;
+}
+
+#hoge {
+    color: blue;
+}
+
+.huga {
+    color: green;
+}
+
+.huga span {
+    color: black;
+}
